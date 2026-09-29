@@ -141,6 +141,5 @@ module.exports = {
   fullSummary,
   supplierContactInfo,
   storeContactCard,
-  combinedNames,
-  receiptLines,
+  combinedNames
 };
