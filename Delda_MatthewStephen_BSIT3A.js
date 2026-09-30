@@ -1,6 +1,6 @@
 'use strict';
 
-const storeName = 'Corner Market'
+const storeName = 'Corner Market';
 const taxRate = 0.08;
 const currencySymbol = '$';
 const openHour = 8;
