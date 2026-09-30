@@ -5,7 +5,7 @@ const taxRate = 0.08;
 const currencySymbol = '$';
 const openHour = 8;
 const closeHour = 21;
-const maxDiscountPercent = 25
+const maxDiscountPercent = 25;
 const inventorySeed = [
   { id: 1, name: 'Apple', price: 0.5, qty: 120, category: 'produce', supplier: { name: 'FreshFarms', contact: { phone: '555-0101' } } },
   { id: 2, name: 'Bread', price: 2.75, qty: 40, category: 'bakery', supplier: { name: 'BakeHouse', contact: null } },
